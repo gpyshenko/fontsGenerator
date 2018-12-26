@@ -1,0 +1,11 @@
+{
+    "iconfonts": {
+        "file": "iconfonts.css",
+        "fontName": "icons",
+        "exts": [
+            "svg",
+            "woff",
+            "woff2"
+        ]
+    }
+}

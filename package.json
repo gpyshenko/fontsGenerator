@@ -1,0 +1,24 @@
+{
+  "name": "fonts-generator",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "gulpfile.js",
+  "scripts": {
+    "clean": "gulp clean",
+    "fonts": "gulp fonts",
+    "iconfonts": "gulp iconfonts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-iconfont": "^10.0.2",
+    "gulp-iconfont-css": "^2.3.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-ttf2woff": "^1.1.1",
+    "gulp-ttf2woff2": "^2.0.2"
+  },
+  "dependencies": {}
+}
